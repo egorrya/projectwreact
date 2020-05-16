@@ -1,0 +1,37 @@
+.new-goal {
+  width: 100%;
+  padding: 0;
+}
+
+.new-goal input {
+  width: 66%;
+  padding: 2%;
+  border: 0;
+  margin: 0.5rem 2%;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.5s;
+  background-color: #ffffff;
+}
+
+.new-goal input:hover {
+  background: #dddddd;
+}
+
+.new-goal button {
+  width: 22%;
+  padding: 2%;
+  border: 0;
+  margin: 0.5rem 2%;
+  background-color: #eeeeee;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.new-goal button:hover {
+  background: #cccccc;
+}
