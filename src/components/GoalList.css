@@ -1,0 +1,13 @@
+.goals-list {
+  list-style: none;
+  width: 100%;
+  padding: 0;
+}
+
+.goals-list li {
+  list-style: none;
+  padding: 10px;
+  margin: 10px 20px;
+  border: 1px solid #777777;
+  border-radius: 10px;
+}
